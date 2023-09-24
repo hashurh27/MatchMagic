@@ -1,6 +1,5 @@
 # MatchMagic - Find Your Perfect Match
 
-![MatchMagic Logo](url_to_your_logo.png)
 
 MatchMagic is a modern and feature-rich dating website designed to help people connect, find meaningful relationships, and discover their perfect matches. Whether you're looking for love, companionship, or just new friends, MatchMagic has you covered.
 
